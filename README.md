@@ -19,3 +19,5 @@ testing
 saya
 kamu
 sss
+
+apa kabar
